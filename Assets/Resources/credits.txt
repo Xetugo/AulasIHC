@@ -1,0 +1,19 @@
+{
+	"functions":
+	[
+		{
+			"title": "2D Artist",
+			"people": [ "Texugo" ]
+		}
+		,
+		{
+			"title": "Programmer",
+			"people": [ "Texugo" ]
+		}
+		,
+		{
+			"title": "Screenwriter",
+			"people": [ "Texugo" ]
+		}
+	]	
+}
